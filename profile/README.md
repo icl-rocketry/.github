@@ -1,6 +1,6 @@
-## Imperial College London Rocketry Github
 ![Alt text](./Images/nimbus_wireframe_inverted.jpg?raw=true)
-
+## Welcome!
+This is the Imperial College London Rocketry github where you can find all our repositories we use.
 <!--
 
 **Here are some ideas to get you started:**
