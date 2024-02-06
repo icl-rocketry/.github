@@ -1,5 +1,5 @@
 ## Imperial College London Rocketry Github
-![Alt text](./Images/nimbus_wireframe_inverted.png?raw=true)
+![Alt text](./Images/nimbus_wireframe_inverted.jpg?raw=true)
 
 <!--
 
