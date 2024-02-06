@@ -1,4 +1,4 @@
-![Alt text](./Images/nimbus_wireframe_inverted.jpg](https://github.com/icl-rocketry/.github/blob/main/profile/Images/nimbus_wireframe_inverted.jpg?raw=true)
+![Alt text](https://github.com/icl-rocketry/.github/blob/main/profile/Images/nimbus_wireframe_inverted.jpg?raw=true)
 
 <!--
 
